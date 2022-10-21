@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/sutd_square.png
       alt: SUTD
-    # description: Sep 2019 ‑ Current <br>Singapore University of Technology and Design (SUTD), Singapore <br>
+    description: Sep 2019 ‑ Current <br>Singapore University of Technology and Design (SUTD), Singapore <br>
     # PhD research majorly focused on nature inspired drones, in particular ’Monocopters’ which are inspired from naturally occurring Samara seeds (Maple seeds), which have the ability to auto‑rotate in free fall. <br>
     # The research involves design, development, coding and experimentation phase for each project.
     # Developing non‑linear controllers for multi‑actuator variants of Monocopter which can achieve a full 6 degree of freedom flight by entering into a second flight mode.
@@ -16,7 +16,7 @@ items:
     image:
       src: /assets/img/work/Logo_Politecnico_Milano.png
       alt: 
-    # description: Oct 2014 ‑ Jul 2017 <br> Politecnico di Milano, Milano, Italy <br>
+    description: Oct 2014 ‑ Jul 2017 <br> Politecnico di Milano, Milano, Italy <br>
     # Graduated with overall score 88/110 (≡ 80/100) <br>
     # Majors - Modelling and Simulation, Flight dynamics and control, Estimation in Aerospace Propulsion, Management of Aerospace projects <br>
     # Dissertation - “Design of sliding mode control techniques for rendezvous orbital maneuvers” <br>
@@ -26,7 +26,7 @@ items:
     image:
       src: /assets/img/work/UWE_Bristol_logo.png
       alt: 
-    # description: Sep 2011 ‑ Jun 2014 <br> University of the West of England, Bristol, UK <br>
+    description: Sep 2011 ‑ Jun 2014 <br> University of the West of England, Bristol, UK <br>
     # Graduated with a First Class Honours’ Degree (≡ 78/100) <br>
     # Majors - Aerodynamics, Flight control and simulation, Flight mechanics <br>
     # Dissertation - “Design and implementation of a guidance algorithm for a UAAV” <br>
