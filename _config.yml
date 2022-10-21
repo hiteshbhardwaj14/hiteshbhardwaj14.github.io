@@ -4,10 +4,10 @@
 title: Hitesh Bhardwaj, M.Sc.
 description: >- # this means to ignore newlines until "baseurl:"
   Description of Hitesh Bhardwaj's education and background.
-baseurl: "/bay" # the subpath of the site
+baseurl: "" # the subpath of the site
 url: "https://hiteshbhardwaj14.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+# og_image: /assets/img/profile-pic.jpg
+# google_analytics: "UA-121636368-3"
 
 header:
   pages:
@@ -40,6 +40,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+
 
 # Excluded items
 exclude:
