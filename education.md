@@ -6,7 +6,7 @@ items:
   - title: Ph.D. in Engineering Product Development<br>
     image:
       src: /assets/img/work/sutd_square.png
-      # alt: SUTD
+      alt: SUTD
     description: Sep 2019 ‑ Current <br>Singapore University of Technology and Design (SUTD), Singapore <br>
     PhD research majorly focused on nature inspired drones, in particular ’Monocopters’ which are inspired from naturally occurring Samara seeds
     (Maple seeds), which have the ability to auto‑rotate in free fall
@@ -17,7 +17,7 @@ items:
   - title: M.Sc. in Aeronautical Engineering <br>
     image:
       src: /assets/img/work/Logo_Politecnico_Milano.png
-      # alt: Polimi
+      alt: SUTD
     description: Oct 2014 ‑ Jul 2017 <br> Politecnico di Milano, Milano, Italy <br>
     Graduated with overall score 88/110 (≡ 80/100)
     Majors - Modelling and Simulation, Flight dynamics and control, Estimation in Aerospace, Propulsion, Management of Aerospace projects
@@ -30,7 +30,7 @@ items:
   - title: B.Eng. (Hons.) in Aerospace Engineering <br>
     image:
       src: /assets/img/work/UWE_Bristol_logo.svg
-      # alt: UWE Bristol
+      alt: SUTD
     description: Sep 2011 ‑ Jun 2014 <br> University of the West of England, Bristol, UK <br>
     Graduated with a First Class Honours’ Degree (≡ 78/100)
     Majors - Aerodynamics, Flight control and simulation, Flight mechanics
