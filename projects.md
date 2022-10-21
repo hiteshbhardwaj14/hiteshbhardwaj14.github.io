@@ -18,7 +18,12 @@ The results verify the proposed concept for the design of the aerial vehicle, al
 
 [Design, modeling and control of a two flight mode capable single wing rotorcraft with mid-air transition capability](https://doi.org/10.1109/LRA.2022.3205454) in _IEEE Robotics and Automation Letters, Vol 7(4), 11720-11727, 2022_.
 
-<!-- <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWV7EI70_WI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 3. Air Launched Unmanned Disaster Relief Delivery Vehicle
+The AHS International Student Design Competition challenges students to design a vertical lift aircraft that meets specified requirements.
+The competition comprised of designing an unmanned rotorcraft, capable of deployment from the ramp of an in‑flight C‑130J cargo airplane.
+The rotorcraft should be able to control its descent and transition into its own flight mode to continue its mission of delivering supplies to a remote area and then subsequently returning to a base.
 
-
+[Press release by AHS International](https://vtol.org/news/2016-student-design-winners)
+[Executive Summary of our entry](https://vtol.org/files/dmfile/3rdGraduate_PolitechMilano_FenixExecSummary2.pdf)
