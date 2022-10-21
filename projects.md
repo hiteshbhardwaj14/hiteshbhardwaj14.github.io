@@ -25,5 +25,5 @@ The AHS International Student Design Competition challenges students to design a
 The competition comprised of designing an unmanned rotorcraft, capable of deployment from the ramp of an in‑flight C‑130J cargo airplane.
 The rotorcraft should be able to control its descent and transition into its own flight mode to continue its mission of delivering supplies to a remote area and then subsequently returning to a base.
 
-[Press release by AHS International](https://vtol.org/news/2016-student-design-winners)
+[Press release by AHS International](https://vtol.org/news/2016-student-design-winners) <br>
 [Executive Summary of our entry](https://vtol.org/files/dmfile/3rdGraduate_PolitechMilano_FenixExecSummary2.pdf)
